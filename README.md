@@ -48,7 +48,7 @@ UIT | 2020
 
 ### Results
 
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/Result.PNG"> width="700"</p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/Result.PNG" width="700" ></p>
 <p align="center"><i>Fig. 8. .</i></p>
 
 ### Deploy
