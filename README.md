@@ -17,8 +17,8 @@ UIT | 2020
 * See details: <a href="https://github.com/hanhdthds/Fonts-Classification/tree/main/Data" target="_blank">Data</a>
 ## Some Details 
 
-### Task
-
+### Task and approachs 
+![](https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/Input_output.PNG)
 ### Dataset
 
 ### Result
