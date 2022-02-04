@@ -45,11 +45,11 @@ UIT | 2020
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/c7257a4e71d3126d3796b315db7a44b38542ff95/Image_Font_Project/DATASET3.PNG" ></p>
 <p align="center"><i>Fig. 7. .</i></p>
 ### Results
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Result.png"></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/Result.PNG"></p>
 <p align="center"><i>Fig. 8. .</i></p>
 
 ### Deploy
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/deloyyy.PNG"></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/deloyyy.png"></p>
 <p align="center"><i>Fig. 9. .</i></p>
 ## Code
 
