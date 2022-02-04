@@ -17,16 +17,16 @@ UIT | 2020
 * See details: <a href="https://github.com/hanhdthds/Fonts-Classification/tree/main/Data" target="_blank">Data</a>
 ## Some Details 
 
-### Task and approachs 
-* Task
-> * Input: an image having character.
-> * Output: font family of that character. 
+* Task and approachs 
+> * Task
+> > * Input: an image having character.
+> > * Output: font family of that character. 
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/Input_output.PNG" ></p>
 <p align="center"><i>Fig. 1. Input and Output.</i></p>
 
-* Approachs
+> * Approachs
 
-### Dataset
+* Dataset
 
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Detect_white_background.png" width="700"></p>
 <p align="center"><i>Fig. 2 .</i></p>
@@ -46,12 +46,12 @@ UIT | 2020
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/c7257a4e71d3126d3796b315db7a44b38542ff95/Image_Font_Project/DATASET3.PNG" width="700"></p>
 <p align="center"><i>Fig. 7. .</i></p>
 
-### Results
+* Results
 
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/47b4dd951d483b2291756df62442438c0067123a/Image_Font_Project/Result.PNG" width="700" ></p>
 <p align="center"><i>Fig. 8. .</i></p>
 
-### Deploy
+* Deploy
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/deloyyy.png" width="700" ></p>
 <p align="center"><i>Fig. 9. .</i></p>
 
