@@ -18,14 +18,39 @@ UIT | 2020
 ## Some Details 
 
 ### Task and approachs 
+* Task
+> * Input: an image having character.
+> * Output: font family of that character. 
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/Input_output.PNG" width="1000"></p>
+<p align="center"><i>Fig. 1. Input and Output.</i></p>
+
+* Approachs
 
 ### Dataset
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Detect_white_background.png" width="1000"></p>
+<p align="center"><i>Fig. 2 .</i></p>
 
-### Result
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Detect_simple_background.png" width="1000"></p>
+<p align="center"><i>Fig. 3. .</i></p>
+
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Detect_complicated_background.png" width="1000"></p>
+<p align="center"><i>Fig. 4. .</i></p>
+
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset 1.png" width="1000"></p>
+<p align="center"><i>Fig. 5. .</i></p>
+
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset 2.png" width="1000"></p>
+<p align="center"><i>Fig. 6. .</i></p>
+
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset 3.png" width="1000"></p>
+<p align="center"><i>Fig. 7. .</i></p>
+### Results
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Result.png" width="1000"></p>
+<p align="center"><i>Fig. 8. .</i></p>
 
 ### Deploy
-
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/deloyyy.PNG" width="1000"></p>
+<p align="center"><i>Fig. 9. .</i></p>
 ## Code
 
 * All codes are in this repo are implemented in Google Colab.
