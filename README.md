@@ -18,7 +18,8 @@ UIT | 2020
 ## Some Details 
 
 ### Task and approachs 
-![](https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/Input_output.PNG)
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/e31625830504711d2154f7def0ee3c4378954eb9/Image_Font_Project/Input_output.PNG" width="1000"></p>
+
 ### Dataset
 
 ### Result
