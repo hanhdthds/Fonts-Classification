@@ -1,6 +1,8 @@
 # Fonts-Classification
-* Deep Learning | DS201
-* UIT | 2020
+
+Deep Learning | DS201
+
+UIT | 2020
 
 ## About
 
