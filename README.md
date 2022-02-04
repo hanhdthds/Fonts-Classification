@@ -36,13 +36,13 @@ UIT | 2020
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Detect_complicated_background.png" width="1000"></p>
 <p align="center"><i>Fig. 4. .</i></p>
 
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset 1.png" width="1000"></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/6c30151676381b6117b24ace0c1d20a1a671523d/Image_Font_Project/Dataset%201.PNG" width="1000"></p>
 <p align="center"><i>Fig. 5. .</i></p>
 
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset 2.png" width="1000"></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset%202.png" width="1000"></p>
 <p align="center"><i>Fig. 6. .</i></p>
 
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset 3.png" width="1000"></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Dataset%203.png" width="1000"></p>
 <p align="center"><i>Fig. 7. .</i></p>
 ### Results
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/1771d085a61b49caa3d56015f85edd2bd0f38ad6/Image_Font_Project/Result.png" width="1000"></p>
