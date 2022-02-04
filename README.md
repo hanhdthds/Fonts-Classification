@@ -15,7 +15,15 @@ UIT | 2020
 ## Data source
 
 * See details: <a href="https://github.com/hanhdthds/Fonts-Classification/tree/main/Data" target="_blank">Data</a>
-## Detail 
+## Some Details 
+
+### Task
+
+### Dataset
+
+### Result
+
+### Deploy
 
 ## Code
 
