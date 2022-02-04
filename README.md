@@ -40,7 +40,7 @@ UIT | 2020
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/7a13a385f9bdd34709a2e37a0d697e20c0700477/Image_Font_Project/DATASET1.PNG" ></p>
 <p align="center"><i>Fig. 5. .</i></p>
 
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/c7257a4e71d3126d3796b315db7a44b38542ff95/Image_Font_Project/DATASET2.PNG.png" ></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/8f7480be3190c877271e9b3155fd8d2924d64b12/Image_Font_Project/DATASET2.PNG" ></p>
 <p align="center"><i>Fig. 6. .</i></p>
 
 <p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/c7257a4e71d3126d3796b315db7a44b38542ff95/Image_Font_Project/DATASET3.PNG" ></p>
@@ -48,7 +48,7 @@ UIT | 2020
 
 ### Results
 
-<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/Result.PNG"></p>
+<p align="center"><img src="https://github.com/hanhdthds/Fonts-Classification/blob/da43dc363a9a34e68d99b760495006efe234cac5/Image_Font_Project/Result.PNG"> width="700"</p>
 <p align="center"><i>Fig. 8. .</i></p>
 
 ### Deploy
