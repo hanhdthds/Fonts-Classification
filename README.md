@@ -14,7 +14,7 @@ UIT | 2020
 
 ## Data source
 
-* <a href="https://github.com/hanhdthds/Fonts-Classification/tree/main/Data" target="_blank">Data</a>
+* See details: <a href="https://github.com/hanhdthds/Fonts-Classification/tree/main/Data" target="_blank">Data</a>
 ## Detail 
 
 ## Code
@@ -25,7 +25,7 @@ UIT | 2020
 
 ## Report
 
-* <a href="https://github.com/hanhdthds/Fonts-Classification/blob/main/FONT_report.pdf" target="_blank">Report</a>
+* This is detailed in attached report: <a href="https://github.com/hanhdthds/Fonts-Classification/blob/main/FONT_report.pdf" target="_blank">Report</a>
 
 ## References
 
