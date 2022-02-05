@@ -24,7 +24,7 @@ UIT | 2020
 <p align="center"><i>Fig. 1. Input and Output.</i></p>
 
 * Approachs
-> * In this report, we experiment with three types of fonts: Old School, Handwritten-Fancy and Horror-Fancy.
+> * Experiment with three types of fonts: Old School, Handwritten-Fancy and Horror-Fancy.
 > * The task is approached to solve in two approaches: simultaneously approaching numerous characters (all Latin alphabet, 5 characters: A, B, C, D, E, F) and approaching each character individually with 5 types of characters A, B, C, D, E.
 
 
